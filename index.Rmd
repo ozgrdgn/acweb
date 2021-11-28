@@ -1,0 +1,39 @@
+---
+title: "Ozgur Dogan"
+image: "ozgur.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/ozgurdogan"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:odogan@erzincan.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a lecturer and a life-long researcher in ELT. Soon after the college graduation from the ELT department of Bogazici University in 2005, I literally dived into the education business by starting my own company called “Live English” and ran it for 7 years. There, I gained invaluable experiences in teaching both as a teacher and a manager. I am currently working as a Lecturer at Erzincan Binali Yildirim University, teaching ESP (English for Specific Purposes) and EAP (English for Academic Purposes) courses. I am also a PhD candidate at Middle East Technical University.
+
+My research interests include Educational Technology, Mobile Learning, Mobile Assisted Language Learning, Social Media and Language Learning, E-learning, Augmented Reality, and Gamification.
+
+## Education
+
+**Middle East Technical University** | Ankara, TR
+
+Ph.D. in English Language Education | September 2018 - Ongoing
+
+**Bolu Abant Izzet Baysal University** | Bolu, TR
+
+M.A. in English Language Education | September 2013 - July 2016
+
+**Bogazici University** | Istanbul, TR
+
+B.A. in Foreign Language Education | September 2001 - June 2005
+
+## Experience
+
+**Erzincan University** | Lecturer | November 2013 - Present
+
+**Live English** | Manager | July 2007 - November 2013
